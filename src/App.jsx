@@ -41,7 +41,7 @@ function App() {
           
         <Projects 
           image={Proj4} 
-          link=""
+          link="https://miniprojects-eight.vercel.app/"
           heading="Mini Projects" 
           description="In Progress..."/>
         <Projects 

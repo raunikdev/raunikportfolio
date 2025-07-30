@@ -7,6 +7,7 @@ import Skills from './components/Skills.jsx';
 import Proj1 from './components/images/proj1.png';
 import Proj2 from './components/images/proj2.png';
 import Proj3 from './components/images/proj3.png';
+import Proj4 from './components/images/proj4.png';
 
 
 import './App.css'
@@ -39,9 +40,9 @@ function App() {
           description="In Progress..."/>
           
         <Projects 
-          image={Proj1} 
+          image={Proj4} 
           link=""
-          heading="Still Working" 
+          heading="Mini Projects" 
           description="In Progress..."/>
         <Projects 
           image={Proj1} 

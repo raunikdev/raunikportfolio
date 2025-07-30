@@ -8,7 +8,7 @@ import Projects from './components/Projects.jsx';
 
 const router = createBrowserRouter([{
   path: '/',
-  element: <App />,
+  element: <About />,
   children: [
     {
       path:'projects',

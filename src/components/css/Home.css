@@ -17,6 +17,8 @@
 .right-home {
     display: grid;
     place-items: center;
+    background-color: aqua;
+    object-fit: contain;
 }
 
 .hello {
@@ -52,13 +54,16 @@
     display: block;
     margin: auto auto;
     max-width: 100%;
-    height: auto;
+    max-height: 70vh;
     padding: 30px;
+    filter:grayscale(100%);
     transition: filter 0.3s;
 }
 
 .profile-pic:hover {
-    filter: invert(100%);
+    filter: none;
+    filter: contrast(100%);
+
 
 }
 

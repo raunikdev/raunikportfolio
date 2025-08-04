@@ -6,8 +6,10 @@
     grid-template-columns: 1fr 1fr;
     /* padding: 0px 40px; */
     scroll-margin-top: 80px;
-    height: 99vh;
+    height: 98vh;
     overflow: hidden;
+    /* border-color: white;
+    border: solid; */
 
 }
 /* 
@@ -141,7 +143,7 @@
     }
 }
 
-@media(min-width: 1333px) {
+@media(min-width: 1370px) {
     #Home {
         padding: 0 130px;
     }
@@ -188,7 +190,7 @@
     }
 }
 
-@media (max-width: 856px) {
+@media (max-width: 1012px) {
 
     .view-cv,
     .download-cv {

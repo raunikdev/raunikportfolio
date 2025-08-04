@@ -45,6 +45,12 @@ footer{
 .left-footer{
     display: grid;
     grid-template-rows: 50px auto;
+    height: auto;
     justify-items: left;
 
+}
+@media(max-width: 490px){
+    .portfolio-header-foot{
+        display: none;
+    }
 }

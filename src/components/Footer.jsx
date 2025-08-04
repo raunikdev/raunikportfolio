@@ -5,7 +5,7 @@ const Footer=()=>{
         <footer>
             <div className="main-footer">
                 <div className="left-footer">
-                    <h2>Portfolio-Raunik</h2>
+                    <h2><span class="portfolio-header-foot">Portfolio-</span>Raunik</h2>
                     <div className="defination-wrap">
                         <p className="defination">I am a student in 3rd Year, with a cgpa of 7 in GGSIPU, East Campus. I have learned some skills like Html, Css, JavaScript and React. I am an Intern at Ampcus Tech as a Full-Stack Developer Intern.</p>
                     </div>

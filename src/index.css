@@ -20,7 +20,7 @@ html{
   scroll-behavior: smooth;
 }
 :root {
-  --side-padding: clamp(10px, 5vw, 130px);
+  --side-padding: clamp(10px, 10vw, 200px);
 }
 
 #Home,

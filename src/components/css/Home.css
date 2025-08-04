@@ -17,8 +17,7 @@
 .right-home {
     display: grid;
     place-items: center;
-    background-color: aqua;
-    object-fit: contain;
+     object-fit: contain;
 }
 
 .hello {

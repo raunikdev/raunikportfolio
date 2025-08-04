@@ -19,3 +19,12 @@ html{
   margin: 0;
   scroll-behavior: smooth;
 }
+:root {
+  --side-padding: clamp(10px, 5vw, 130px);
+}
+
+#Home,
+.header {
+  padding-left: var(--side-padding);
+  padding-right: var(--side-padding);
+}

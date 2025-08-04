@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import './css/Header.css';
+import '../index.css';
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   return (
-    <header>
+    <header className='header'>
       <p className="heading">
         <a href="/" className="headinga">PortFolio-Raunik</a>
       </p>

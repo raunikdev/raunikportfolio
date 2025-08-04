@@ -56,15 +56,20 @@ p {
     opacity: 0.9;
     border-bottom: none;
 }
-
-@media(min-width: 1151px) {
+/* 
+@media(min-width: 1196px) {
+    header {
+        padding-left: 90px;
+        padding-right: 90px;
+    }
+}@media(max-width: 1196px) {
     header {
         padding-left: 90px;
         padding-right: 90px;
     }
 }
 
-@media(min-width: 1333px) {
+@media(min-width: 1370px) {
     header {
 
         padding-left: 130px;
@@ -86,7 +91,7 @@ p {
         padding-right: 10px;
     }
 
-}
+} */
 
 /* Hamburger icon style */
 .hamburger {

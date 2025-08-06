@@ -212,3 +212,10 @@
         width: 150px;
     }
 }
+@media (max-width: 400px) {
+
+    .view-cv,
+    .download-cv {
+        width: 120px;
+    }
+}

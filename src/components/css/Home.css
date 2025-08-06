@@ -5,18 +5,15 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     /* padding: 0px 40px; */
-    scroll-margin-top: 80px;
+    /* padding-top: 60px; */
     height: 98vh;
     overflow: hidden;
     /* border-color: white;
     border: solid; */
 
 }
-/* 
-#left-home {
-    height: auto;
-    margin-top: 50px;
-} */
+
+
 
 .right-home {
     display: grid;

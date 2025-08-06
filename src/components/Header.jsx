@@ -17,7 +17,7 @@ const Header = () => {
 
       <ul className={`header-list ${menuOpen ? 'show' : ''}`}>
         <li><a className="attribute-header" href="/#Home">Home</a></li>
-        <li><a className="attribute-header" href="/About">About</a></li>
+        <li><a className="attribute-header" href="/#Skills">Skills</a></li>
         <li><a className="attribute-header" href="/#projects">Projects</a></li>
         <li><a className="attribute-header" href="#Contact">Contact</a></li>
       </ul>

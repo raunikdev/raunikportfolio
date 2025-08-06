@@ -105,7 +105,7 @@ const Skills=()=>{
     
 
     return(
-        <div className='skills'>
+        <div className='skills' id="Skills">
             <h1 id="skills-heading">Tech Stack</h1>
             <div className="buttons-fbe">
                 <button className={`frontend ${selectedBtn === "frontend" ? "selected" : ""}`} onClick={displayfront}>Frontend</button>

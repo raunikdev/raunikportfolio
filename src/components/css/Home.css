@@ -57,11 +57,11 @@
     max-height: 99vh;
     padding: 30px;
     filter:grayscale(100%);
-    transition: filter 0.3s;
+    height: 60%;
+    transition: filter 1s;
 }
 
 .profile-pic:hover {
-    filter: none;
     filter: contrast(100%);
 
 

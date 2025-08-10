@@ -44,7 +44,7 @@ function App() {
           link="https://miniprojects-eight.vercel.app/"
           heading="Mini Projects" 
           description="In Progress..."/>
-        <Projects 
+{/*         <Projects 
           image={Proj1} 
           link=""
           heading="Still Working" 
@@ -53,7 +53,7 @@ function App() {
           image={Proj1} 
           link=""
           heading="Still Working" 
-          description="In Progress..."/>
+          description="In Progress..."/> */}
       </div>
       
       <Footer />

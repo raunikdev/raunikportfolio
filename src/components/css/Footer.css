@@ -12,9 +12,11 @@ p{
 }
 .main-footer{
     display: grid;
+    width: 90%;
     grid-template-columns: 3fr 1fr 1fr;
+    padding: 0px 5%;
     background-color: #41414127;
-    padding: 10px;
+    /* padding: 10px; */
 }
 .foot-ul{
     list-style-type: none;
@@ -39,9 +41,7 @@ p{
 }
 footer{
     margin:0;
-    width: 90%;
     margin-top: 50px;
-    padding: 0px 5%;
 
 }
 .left-footer{

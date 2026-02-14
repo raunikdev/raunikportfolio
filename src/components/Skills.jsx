@@ -12,6 +12,7 @@ import Pythonicon from './images/python-icon.png';
 import Javaicon from './images/java-icon.png';
 import Flaskicon from './images/flask-icon.png';
 import Bootstrapicon from './images/bootstrap-icon.png';
+import Vercelicon from './images/vercel-icon.png';
 
 
 
@@ -38,7 +39,9 @@ const Skills=()=>{
         {id: 1,name: "Github", src: Githubicon, color: "rgba(180, 180, 180, 0.76)"},
         {id: 2,name: "Git", src: Giticon, color: "rgba(255, 81, 81, 0.41)"},
         {id: 3,name: "Python", src: Pythonicon, background: "linear-gradient(135deg, rgba(122, 169, 255, 0.2), rgba(232, 255, 28, 0.2))"},
+        {id: 4,name: "Vercel",src: Vercelicon, background:"rgb(0,0,0)"},
         // {id: 4,name: "React", src: Reacticon, color: "rgba(55, 248, 255, 0.42)"}
+
     ]
     const displayfronty = frontend.map(frontend =>
             <div className="skill-all-box">
